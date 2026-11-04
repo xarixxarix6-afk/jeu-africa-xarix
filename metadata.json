@@ -1,0 +1,8 @@
+{
+  "name": "Salon du Défi Africain 3-en-1",
+  "description": "Plateforme de jeux de stratégie africaine : Dames 10x10 & 8x8, Ludo Royal et Échecs des Rois avec portraits IA dynamiques par rang, voix IA tactique et salons multijoueurs P2P.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
